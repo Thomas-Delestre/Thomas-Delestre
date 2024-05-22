@@ -11,7 +11,7 @@ Sur ce git vous avez accès aux multiples projets que je réalise durant mon cur
 
 ## 🛠️ Technologies ou j'ai des notions :
 - HTML / CSS / ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) / ![Python](https://img.shields.io/badge/python-3.10-brightgreen?logo=python)
+- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) / ![Python](https://img.shields.io/badge/python-brightgreen?logo=python)
 - MySQL / SQLite / GraphQL
 
 ## 📚 Technologies en cours d'apprentissage :

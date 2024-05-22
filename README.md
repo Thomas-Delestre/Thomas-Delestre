@@ -10,16 +10,16 @@ Je me présente Thomas Delestre, apprenti développeur fullstack à Zone01 Rouen
 Sur ce git vous avez accès aux multiples projets que je réalise durant mon cursus, j'y ajouterai aussi des projets complémentaires.
 
 ## 🛠️ Technologies ou j'ai des notions :
-- ![HTML](https://img.shields.io/badge/html-green?logo=html5&logoColor=%23F7DF1E&style=for-the-badge)
- ![CSS](https://img.shields.io/badge/css-%BDFEC4?logo=css3&logoColor%23F7DF1E&style=for-the-badge)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-purple?logo=python&logoColor=yellow&style=for-the-badge)
-- ![SQLite](https://img.shields.io/badge/sqlite-blue?logo=sqlite&logoColor=yellow&style=for-the-badge)
-   ![GraphQL](https://img.shields.io/badge/graphql-blue?logo=graphql&logoColor=yellow&style=for-the-badge)
+- ![HTML](https://img.shields.io/badge/html-FFA500?logo=html5&logoColor=yellow&style=for-the-badge)
+ ![CSS](https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=yellow&style=for-the-badge)
+ ![JavaScript](https://img.shields.io/badge/javascript-323330?logo=javascript&logoColor=yellow&style=for-the-badge) 
+- ![Go](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=yellow&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
+- ![SQLite](https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=yellow&style=for-the-badge)
+   ![GraphQL](https://img.shields.io/badge/graphql-E10098?logo=graphql&logoColor=yellow&style=for-the-badge)
 
 
 ## 📚 Technologies en cours d'apprentissage :
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) / ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow&style=for-the-badge)
+- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow&style=for-the-badge)
 - (https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Rust]
 - ![C](https://img.shields.io/badge/c-blue?logo=c&logoColor=yellow&style=for-the-badge)
 - ![React](https://img.shields.io/badge/react-blue?logo=react&logoColor=yellow&style=for-the-badge)

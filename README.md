@@ -10,7 +10,7 @@ Je me présente Thomas Delestre, apprenti développeur fullstack à Zone01 Rouen
 Sur ce git vous avez accès aux multiples projets que je réalise durant mon cursus, j'y ajouterai aussi des projets complémentaires.
 
 ## 🛠️ Technologies ou j'ai des notions :
-- ![HTML](https://img.shields.io/badge/html-FFA500?logo=html5&logoColor=yellow&style=for-the-badge)
+- ![HTML](https://img.shields.io/badge/html-4D7C8A?logo=html5&logoColor=yellow&style=for-the-badge)
  ![CSS](https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=yellow&style=for-the-badge)
  ![JavaScript](https://img.shields.io/badge/javascript-323330?logo=javascript&logoColor=yellow&style=for-the-badge) 
 - ![Go](https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=yellow&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)

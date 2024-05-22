@@ -19,7 +19,7 @@ Sur ce git vous avez accès aux multiples projets que je réalise durant mon cur
 
 
 ## 📚 Technologies en cours d'apprentissage :
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow&style=for-the-badge) ![Rust](https://img.shields.io/badge/rust-000000?logo=rust&logoColor=yellow&style=for-the-badge)
+- ![Go](https://img.shields.io/badge/go-96a5a4.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow&style=for-the-badge) ![Rust](https://img.shields.io/badge/rust-000000?logo=rust&logoColor=yellow&style=for-the-badge)
 - ![C](https://img.shields.io/badge/c-blue?logo=c&logoColor=yellow&style=for-the-badge)
 - ![React](https://img.shields.io/badge/react-blue?logo=react&logoColor=yellow&style=for-the-badge)
 - ![NodeJS](https://img.shields.io/badge/node.js-blue?logo=node.js&logoColor=yellow&style=for-the-badge)

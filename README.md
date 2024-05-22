@@ -10,10 +10,10 @@ Je me présente Thomas Delestre, apprenti développeur fullstack à Zone01 Rouen
 Sur ce git vous avez accès aux multiples projets que je réalise durant mon cursus, j'y ajouterai aussi des projets complémentaires.
 
 ## 🛠️ Technologies ou j'ai des notions :
-- ![HTML](https://img.shields.io/badge/html-blue?logo=html5&logoColor=yellow&style=for-the-badge)
- ![CSS](https://img.shields.io/badge/css-blue?logo=css3&logoColor=yellow&style=for-the-badge)
+- ![HTML](https://img.shields.io/badge/html-green?logo=html5&logoColor=yellow&style=for-the-badge)
+ ![CSS](https://img.shields.io/badge/css-%BDFEC4?logo=css3&logoColor=yellow&style=for-the-badge)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) / ![Python](https://img.shields.io/badge/python-blue?logo=python&logoColor=yellow&style=for-the-badge)
+- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-purple?logo=python&logoColor=yellow&style=for-the-badge)
 - ![SQLite](https://img.shields.io/badge/sqlite-blue?logo=sqlite&logoColor=yellow&style=for-the-badge)
    ![GraphQL](https://img.shields.io/badge/graphql-blue?logo=graphql&logoColor=yellow&style=for-the-badge)
 

@@ -26,7 +26,7 @@ Sur ce git vous avez accès aux multiples projets que je réalise durant mon cur
 
 
 ## ⚙️ Intérêts technologiques:
-Mon cursus me permet de me spécialisé dans mes plus grands domaines d'intérêt, l'IA et la Data ! Ayant pour projet à long terme de mêler les sciences médicales à la programmation,
+Mon cursus me permet de me spécialiser dans mes plus grands domaines d'intérêt, l'IA et la Data ! Ayant pour projet à long terme de mêler les sciences médicales à la programmation,
 j'envisage tout de même de parcourir une bonne partie du spectre de la programmation dans divers milieux sucitant ma curiosité.
 
 

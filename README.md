@@ -9,7 +9,7 @@ Je me présente Thomas Delestre, apprenti développeur fullstack à Zone01 Rouen
 ## 🚀 Qu'est-ce que vous trouverez ici ?
 Sur ce git vous avez accès aux multiples projets que je réalise durant mon cursus, j'y ajouterai aussi des projets complémentaires.
 
-## 🛠️ Technologies ou j'ai des notions :
+## 🛠️ Technologies apprisent :
 - ![HTML](https://img.shields.io/badge/html-4D7C8A?logo=html5&logoColor=yellow&style=for-the-badge)
  ![CSS](https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=yellow&style=for-the-badge)
  ![JavaScript](https://img.shields.io/badge/javascript-323330?logo=javascript&logoColor=yellow&style=for-the-badge) 
@@ -20,7 +20,6 @@ Sur ce git vous avez accès aux multiples projets que je réalise durant mon cur
 
 ## 📚 Technologies en cours d'apprentissage :
 - ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=yellow) ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=yellow&style=for-the-badge) ![Rust](https://img.shields.io/badge/rust-000000?logo=rust&logoColor=yellow&style=for-the-badge)
-- ![C](https://img.shields.io/badge/c-16007a?logo=c&logoColor=yellow&style=for-the-badge)
 - ![React](https://img.shields.io/badge/react-023618?logo=react&logoColor=yellow&style=for-the-badge)
 - ![NodeJS](https://img.shields.io/badge/node.js-381820?logo=node.js&logoColor=yellow&style=for-the-badge)
 

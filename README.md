@@ -23,7 +23,6 @@ Sur ce git vous avez accès aux multiples projets que je réalise durant mon cur
 - ![React](https://img.shields.io/badge/react-023618?logo=react&logoColor=yellow&style=for-the-badge)
 - ![NodeJS](https://img.shields.io/badge/node.js-381820?logo=node.js&logoColor=yellow&style=for-the-badge)
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-- 
 
 ## ⚙️ Intérêts technologiques:
 Mon cursus me permet de me spécialiser dans mes plus grands domaines d'intérêt, l'IA et la Data ! Ayant pour projet à long terme de mêler les sciences médicales à la programmation,

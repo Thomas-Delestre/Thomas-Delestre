@@ -7,7 +7,8 @@
 Je me présente Thomas Delestre, apprenti développeur fullstack à Zone01 Rouen, actuellement en recherche d'une alternance.
 
 ## 🚀 Qu'est-ce que vous trouverez ici ?
-Sur ce git vous avez accès aux multiples projets que je réalise durant mon cursus, j'y ajouterai aussi des projets complémentaires.
+Sur ce git vous avez accès à une sélections de divers projets que j'ai pu réaliser durant mon cursus ! 
+Vous y trouverez de la POO, de la base de donnée, de l'algorithmie, du tracking d'API, du ray tracing et bien d'autre...
 
 ## 🛠️ Technologies apprisent :
 - ![HTML](https://img.shields.io/badge/html-4D7C8A?logo=html5&logoColor=yellow&style=for-the-badge)
